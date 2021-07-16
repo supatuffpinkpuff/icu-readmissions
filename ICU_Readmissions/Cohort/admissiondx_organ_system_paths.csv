@@ -1,0 +1,21 @@
+﻿admitdxname,admitdxpath
+Cardiovascular,admission diagnosis|Non-operative Organ Systems|Organ System|Cardiovascular
+Gastrointestinal,admission diagnosis|Non-operative Organ Systems|Organ System|Gastrointestinal
+Genitourinary,admission diagnosis|Non-operative Organ Systems|Organ System|Genitourinary
+Hematology,admission diagnosis|Non-operative Organ Systems|Organ System|Hematology
+Metabolic/Endocrine,admission diagnosis|Non-operative Organ Systems|Organ System|Metabolic/Endocrine
+Musculoskeletal/Skin,admission diagnosis|Non-operative Organ Systems|Organ System|Musculoskeletal/Skin
+Neurologic,admission diagnosis|Non-operative Organ Systems|Organ System|Neurologic
+Respiratory,admission diagnosis|Non-operative Organ Systems|Organ System|Respiratory
+Transplant,admission diagnosis|Non-operative Organ Systems|Organ System|Transplant
+Trauma,admission diagnosis|Non-operative Organ Systems|Organ System|Trauma
+,admission diagnosis|Operative Organ Systems|Organ System|Cardiovascular
+,admission diagnosis|Operative Organ Systems|Organ System|Gastrointestinal
+,admission diagnosis|Operative Organ Systems|Organ System|Genitourinary
+,admission diagnosis|Operative Organ Systems|Organ System|Hematology
+,admission diagnosis|Operative Organ Systems|Organ System|Metabolic/Endocrine
+,admission diagnosis|Operative Organ Systems|Organ System|Musculoskeletal/Skin
+,admission diagnosis|Operative Organ Systems|Organ System|Neurologic
+,admission diagnosis|Operative Organ Systems|Organ System|Respiratory
+,admission diagnosis|Operative Organ Systems|Organ System|Transplant
+,admission diagnosis|Operative Organ Systems|Organ System|Trauma
