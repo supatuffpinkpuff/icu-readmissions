@@ -1,0 +1,1 @@
+This folder contains medication feature generating code. The folders DrugNameLists contains csvs of drug names, brand and generic to search for. TreatmentStrings is used to search the treatment table of eICU for medication information as well, but has no use outside of eICU. 
